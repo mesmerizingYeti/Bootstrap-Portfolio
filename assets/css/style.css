@@ -32,3 +32,12 @@ body {
 .text-dark-liver {
     color : #54494B;
 }
+
+@media only screen and (max-width: 460px) {
+
+    .about-picture {
+        height: auto;
+        width: 100%;
+    }
+
+}
